@@ -5,6 +5,7 @@ Paryavaran-Kavalu is an Android-based smart waste management application develop
  Features
  
 User Module
+
 User Registration & Login
 Submit Waste Reports
 Upload Waste Images
@@ -15,7 +16,12 @@ Complaint Status Tracking
 Logout Functionality
 
 Admin Module
+
 Admin Login
 View All Complaints
 Mark Complaints as Cleaned
 Complaint Monitoring Dashboard
+
+
+
+Add Google-JSON File inside the app folder.
